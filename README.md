@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/idea-to-launch.webp" alt="idea-to-launch: a light bulb launching like a rocket" width="480">
+</p>
+
+
 # idea-to-launch
 
 **A structured AI interview that takes you from vague interests to one validated, feasible project.**
