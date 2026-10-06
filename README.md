@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/idea-to-launch.webp" alt="idea-to-launch: a light bulb launching like a rocket" width="480">
+  <img src="assets/i-t-l.png" alt="idea-to-launch: a light bulb launching like a rocket" width="480">
 </p>
 
 
