@@ -79,7 +79,7 @@ Step-by-step instructions for each platform are in [`docs/USAGE.md`](docs/USAGE.
 
 ## Author
 
-Created by **Seniqs AS** - [seniqs.no](https://seniqs.no).
+Created by **Seniqs AS** Norway - [seniqs.no](https://seniqs.no).
 
 ## License
 
